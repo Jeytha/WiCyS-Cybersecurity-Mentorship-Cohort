@@ -95,7 +95,7 @@ This repository will be continuously updated with:
 - Activities and discussion topics from future sessions  
 
 ---
----
+
 ## ❤️ Author
 
 Created by **Jeytha Sahana** 
