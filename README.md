@@ -1,101 +1,125 @@
-# Women in CyberSecurity (WiCyS) Mentorship Cohort
+# Women in CyberSecurity (WiCyS) Mentorship Cohort  
 
 **Mentor:** Jeytha Sahana Venkatesh Babu  
 **Program:** Women in CyberSecurity (WiCyS) Mentorship  
-**Focus Areas:** Cybersecurity Career Development, Technical Domain Exploration, Industry Skills  
+**Focus Areas:** Cybersecurity Career Development · Technical Exploration · Leadership · Risk  
 
 ---
 
-# Overview
+## Overview  
+This repository documents mentorship sessions conducted as part of the **Women in CyberSecurity (WiCyS) Mentorship Program**.
 
-This repository documents mentorship sessions conducted as part of the **Women in CyberSecurity (WiCyS) Mentorship Program**. The mentorship cohort focuses on guiding students and early-career professionals through cybersecurity career pathways, foundational knowledge, and professional skills required in the industry.
+The cohort focuses on guiding students and early-career professionals through:
+- Cybersecurity career pathways  
+- Real-world security concepts  
+- Leadership and risk-based thinking  
+- Professional communication skills  
 
-Each session includes **topic discussions, career guidance, and interactive activities** designed to help participants build both technical awareness and professional development skills.
-
----
-
-# Mentorship Objectives
-
-The mentorship program aims to:
-
-- Provide **career guidance across cybersecurity domains**
-- Introduce **key industry concepts and frameworks**
-- Encourage **hands-on learning and discussion**
-- Support mentees in **developing professional and technical skills**
-- Foster **collaboration and peer learning**
+Each session is designed to simulate **real cybersecurity environments**, combining **technical knowledge, leadership mindset, and decision-making under pressure**.
 
 ---
 
-# Mentorship Structure
+## Mentorship Objectives  
 
-- **Session Frequency:** Monthly  
-- **Session Duration:** 1.5 – 2 hours  
-- **Format:** Discussion + interactive exercises  
-- **Focus:** Career development and cybersecurity learning  
+- Provide structured guidance across cybersecurity domains  
+- Introduce real-world frameworks and industry practices  
+- Build leadership and risk-thinking mindset  
+- Develop communication and professional skills  
+- Encourage hands-on, scenario-based learning  
+- Foster collaboration and peer learning  
 
 ---
 
-# Session 1 – Cybersecurity Career Exploration
+## Mentorship Structure  
 
-**Highlights**
+- **Frequency:** Monthly  
+- **Duration:** 1.5 – 2 hours  
+- **Format:**  
+  - Concept discussion  
+  - Real-world scenarios  
+  - Interactive exercises  
+- **Focus:** Career + Leadership + Applied Cybersecurity  
 
-- Introduction to the **cybersecurity career landscape**
-- Overview of major **cybersecurity domains** including SOC, GRC, penetration testing, DFIR, cloud security, and **ICS/OT security**
-- Discussion of **cybersecurity fundamentals and the CIA triad**
-- Introduction to **industry security frameworks** including NIST, ISO 27001, CIS Controls, and IEC 62443
-- Guidance on **cybersecurity career pathways and specialization options**
+---
 
-**Activities Conducted**
+# Sessions  
 
+---
+
+## Session 1 – Cybersecurity Career Exploration  
+
+### Highlights  
+- Cybersecurity landscape overview  
+- Domains: SOC, GRC, Pentesting, DFIR, Cloud, ICS/OT  
+- CIA Triad fundamentals  
+- Security frameworks: NIST, ISO 27001, CIS Controls, IEC 62443  
+- Career pathways and specialization  
+
+### Activities  
 - Career mapping exercise  
-- SMART goal setting activity  
-- Threat modeling discussion  
-- Cyber attack chain mapping exercise  
+- SMART goal setting  
+- Threat modeling  
+- Attack chain mapping  
 
 ---
 
-# Session 2 – Communication in Cybersecurity
+## Session 2 – Communication in Cybersecurity  
 
-**Highlights**
+### 🔹 Highlights  
+- Why communication is critical in cybersecurity  
+- Translating technical issues → business impact  
+- Communicating risk to executives  
+- Handling disagreement during incidents  
+- Structured communication under pressure  
 
-- Importance of **communication in cybersecurity environments**
-- Translating **technical security findings into business impact**
-- Communicating cybersecurity risk to **executives and leadership**
-- Handling **technical disagreements and miscommunication**
-- Understanding communication during **incident response scenarios**
-
-**Activities Conducted**
-
-- SOC alert communication scenario  
+### Activities  
+- SOC alert explanation exercise  
 - Executive briefing simulation  
-- Incident communication planning exercise  
-- Red Team vs Blue Team communication simulation  
+- Incident communication planning  
+- Red Team vs Blue Team communication  
 
 ---
 
-# Learning Resources Shared
+## Session 3 – Data States, Leadership & Risk Thinking  
 
-Participants were encouraged to explore hands-on cybersecurity platforms:
-
-- TryHackMe  
-- Hack The Box  
-- CyberDefenders  
-- Blue Team Labs  
-- SANS training resources  
+### Data States & Security  
+- Data **at rest, in transit, in use**  
+- Risks across each state (MITM, exposure, memory risks)  
+- Controls: encryption, TLS, MFA, access control  
 
 ---
 
-# Repository Updates
+### Leadership Thinking in Cybersecurity  
+- Shift from **“fixing issues” → “understanding risk”**  
+- Leaders prioritize **business impact over technical urgency**  
 
-This repository will be continuously updated with:
+**Core questions leaders ask:**
+- What is the asset?  
+- What is the threat?  
+- What is the impact?  
 
-- Additional mentorship session summaries  
-- Learning resources  
-- Cybersecurity career guidance  
-- Activities and discussion topics from future sessions  
+**Frameworks introduced:**
+- CIA Triad (tradeoff thinking)  
+- STRIDE (attacker mindset)  
+- OODA Loop (fast decision-making)  
 
 ---
 
-## ❤️ Author
+### Risk Management & Decision Making  
 
-Created by **Jeytha Sahana** 
+**Risk Formula:**  Risk = Threat × Vulnerability × Impact
+
+This repository will continue to evolve with:
+
+- New mentorship sessions  
+- Real-world cybersecurity scenarios  
+- Leadership and risk frameworks  
+- Hands-on exercises  
+- Career guidance resources  
+
+---
+
+## ❤️ Author  
+
+**Jeytha Sahana Venkatesh Babu**  
+
